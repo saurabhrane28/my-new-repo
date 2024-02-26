@@ -1,2 +1,3 @@
 # my-new-repo
-my new repo=firts
+my new repo=firstt
+author-saurabh rane
